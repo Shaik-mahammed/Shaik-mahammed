@@ -16,7 +16,7 @@
   [🧠 AI Powered Personal Health Assistant](https://github.com/Shaik-mahammed/AI-POWERED-PERSONAL-HEALTH-ASSISTANT)
 
 - 🌱 I’m currently learning:  
-  **React.js**, **LangChain**
+  **React.js**, **LongChain**
 
 - 💬 Ask me about:  
   **Java**, **Spring Boot**, **Hibernate**, **MySQL**
